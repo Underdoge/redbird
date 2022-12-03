@@ -1630,6 +1630,14 @@
     "pyconf" "^1.1.7"
     "safe-replace" "^1.1.0"
 
+"le-store-fs@^1.0.3":
+  "integrity" "sha512-JdnYvfBiJwgjNFQ55Qw5bgWd+MsnE466AgBMWw6dMzORTQ0F2a35u0l8VvZ9qRBeSoAv6Kt/y5saATzjNltcqQ=="
+  "resolved" "https://registry.npmjs.org/le-store-fs/-/le-store-fs-1.0.3.tgz"
+  "version" "1.0.3"
+  dependencies:
+    "mkdirp" "^0.5.1"
+    "safe-replace" "^1.1.0"
+
 "levn@~0.2.5":
   "integrity" "sha1-uo0znQykphDjo/FFucr0iAcVUFQ="
   "resolved" "https://registry.npmjs.org/levn/-/levn-0.2.5.tgz"
@@ -1874,7 +1882,7 @@
     "for-in" "^1.0.2"
     "is-extendable" "^1.0.1"
 
-"mkdirp@^0.5.0", "mkdirp@0.5.1":
+"mkdirp@^0.5.0", "mkdirp@^0.5.1", "mkdirp@0.5.1":
   "integrity" "sha512-SknJC52obPfGQPnjIkXbmA6+5H15E+fR+E4iR2oQ3zzCLbd7/ONua69R/Gw7AgkTLsRG+r5fzksYwWe1AgTyWA=="
   "resolved" "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz"
   "version" "0.5.1"
