@@ -39,6 +39,7 @@
     "node-etcd": "^7.0.0",
     "object-hash": "^1.3.1",
     "pino": "^5.15.0",
+    "redbird": "^0.10.0",
     "safetimeout": "^0.1.2",
     "spdy": "^4.0.1",
     "valid-url": "^1.0.9"
